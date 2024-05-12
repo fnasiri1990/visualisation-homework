@@ -1,2 +1,2 @@
 # visualisation-homework
-ReDi school GIT and statictics homework
+ReDi school GIT and STATISTICS homework
